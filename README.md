@@ -6,7 +6,7 @@
 A deep learning-based web application that detects breast cancer from histopathological images using a custom CNN and ResNet50 model. This is my capstone project at GITAM School of Technology, deployed via Streamlit.
 
 ## 🚀 Live Demo
-👉 [Click here to try the deployed app](https://breast-cancer-classification-kbctfhvtuetb8wz6yz8fdz.streamlit.app/)
+👉 [Click here to try the deployed app](https://miniproject-5tudncy4d3gxdvxeyvugjd-shakthi-likith.streamlit.app/)
 
 ---
 
