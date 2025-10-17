@@ -61,11 +61,10 @@ A deep learning-based web application that detects breast cancer from histopatho
 
 ## 👨‍🎓 Academic Context
 
-- 🎓 **Capstone Project**  
-- 🏫 **GITAM School of Technology**  
-- 👨‍🏫 Guided by **Prof. Sangameshwar**  
-- 📆 Final Year B.Tech (Computer Science) — Class of 2025  
-- 👨‍💻 Developed by **Chowda Reddy N** and **N Swaroopa**
+- 🎓 **Mini Project**  
+- 🏫 **Alva's Institute of Engineering and Technology**  
+- 📆 Third Year B.Tech (Computer Science) — Class of 2026  
+- 👨‍💻 Developed by **Shakthi** and **Likith Gowda**
 
 ---
 
@@ -97,16 +96,3 @@ opencv-python
 numpy  
 pillow  
 matplotlib  
-
-🤝 Acknowledgements  
-Kaggle - BreaKHis Dataset  
-GITAM School of Technology, Bangalore  
-Prof. Sangameshwar, for academic guidance  
-
-📜 License  
-This project is open-source and available under the MIT License.  
-
-🙋‍♂️ Connect With Me  
-Chowda Reddy N  
-Final Year B.Tech CSE | Full Stack Enthusiast | AI Explorer  
-💬 Email: reddyreddy44477@gmail.com
