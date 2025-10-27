@@ -113,7 +113,7 @@ elif page == "ℹ️ About":
     st.title("ℹ️ About This Project")
     st.write("""
     **Breast Cancer Classification App**  
-    - This application uses a **Convolutional Neural Network (CNN)** to classify breast cancer cell images.  
+    - This application uses a **ResNet50(Model)** to classify breast cancer cell images.  
     - It was trained using a **ResNet50** with TensorFlow & Keras.  
     - The app is deployed using **Streamlit Cloud**.  
       
@@ -143,5 +143,6 @@ st.markdown(
     """,
     unsafe_allow_html=True
 )
+
 
 
